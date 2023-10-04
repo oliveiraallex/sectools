@@ -1,0 +1,16 @@
+;; HEADER SECTION
+;;	id = 52882
+;;	qr = 0	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 0	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 0	nscount = 0	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; 43.211.244.200.in-addr.arpa.	IN	PTR
+
+;; ANSWER SECTION (0 records)
+
+;; AUTHORITY SECTION (0 records)
+
+;; ADDITIONAL SECTION (0 records)
+

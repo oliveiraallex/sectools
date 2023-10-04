@@ -1,0 +1,24 @@
+;; HEADER SECTION
+;;	id = 19160
+;;	qr = 1	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 1	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 1	nscount = 1	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; ocsp.digicert.com.	IN	AAAA
+
+;; ANSWER SECTION (1 record)
+ocsp.digicert.com.	45321	IN	CNAME	cs9.wac.phicdn.net.
+
+;; AUTHORITY SECTION (1 record)
+wac.phicdn.net.	167	IN	SOA	( ns1.edgecastcdn.net. noc.edgecast.com.
+				1557433515	;serial
+				3600		;refresh
+				600		;retry
+				604800		;expire
+				600		;minimum
+	)
+
+;; ADDITIONAL SECTION (0 records)
+

@@ -1,0 +1,18 @@
+;; HEADER SECTION
+;;	id = 33823
+;;	qr = 1	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 1	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 2	nscount = 0	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; adservice.google.com.br.	IN	AAAA
+
+;; ANSWER SECTION (2 records)
+adservice.google.com.br.	238	IN	CNAME	pagead46.l.doubleclick.net.
+pagead46.l.doubleclick.net.	272	IN	AAAA	2800:3f0:4001:810::2002
+
+;; AUTHORITY SECTION (0 records)
+
+;; ADDITIONAL SECTION (0 records)
+

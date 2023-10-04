@@ -1,0 +1,23 @@
+;; HEADER SECTION
+;;	id = 39494
+;;	qr = 1	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 1	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 5	nscount = 0	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; detectportal.firefox.com.	IN	AAAA
+
+;; ANSWER SECTION (5 records)
+detectportal.firefox.com.	23	IN	CNAME	detectportal.prod.mozaws.net.
+detectportal.prod.mozaws.net.	23	IN	CNAME	(
+	detectportal.firefox.com-v2.edgesuite.net. )
+detectportal.firefox.com-v2.edgesuite.net.	6076	IN	CNAME	(
+	a1089.dscd.akamai.net. )
+a1089.dscd.akamai.net.	20	IN	AAAA	2600:1419:a000::bad3:c51b
+a1089.dscd.akamai.net.	20	IN	AAAA	2600:1419:a000::bad3:c518
+
+;; AUTHORITY SECTION (0 records)
+
+;; ADDITIONAL SECTION (0 records)
+

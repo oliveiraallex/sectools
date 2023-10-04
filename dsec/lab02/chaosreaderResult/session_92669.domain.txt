@@ -1,0 +1,18 @@
+;; HEADER SECTION
+;;	id = 52210
+;;	qr = 1	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 1	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 2	nscount = 0	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; apis.google.com.	IN	A
+
+;; ANSWER SECTION (2 records)
+apis.google.com.	390511	IN	CNAME	plus.l.google.com.
+plus.l.google.com.	24	IN	A	216.58.202.174
+
+;; AUTHORITY SECTION (0 records)
+
+;; ADDITIONAL SECTION (0 records)
+

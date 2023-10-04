@@ -1,0 +1,25 @@
+;; HEADER SECTION
+;;	id = 29299
+;;	qr = 1	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 1	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 1	nscount = 1	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; services.addons.mozilla.org.	IN	AAAA
+
+;; ANSWER SECTION (1 record)
+services.addons.mozilla.org.	60	IN	CNAME	olympia.prod.mozaws.net.
+
+;; AUTHORITY SECTION (1 record)
+prod.mozaws.net.	72	IN	SOA	( ns-1260.awsdns-29.org.
+	awsdns-hostmaster.amazon.com.
+				1		;serial
+				7200		;refresh
+				900		;retry
+				1209600		;expire
+				86400		;minimum
+	)
+
+;; ADDITIONAL SECTION (0 records)
+

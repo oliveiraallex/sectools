@@ -1,0 +1,115 @@
+
+Acessar a primeira linha do arquivo para ver a estrutura
+└─$ head -n 1 access.log
+
+182.118.53.93 - - [08/Feb/2015:08:10:21 -0200] "GET / HTTP/1.1" 200 2477 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2251.0 Safari/537.36"
+149.129.173.104 - - [08/Feb/2015:19:46:49 -0200] "GET /tmUnblock.cgi HTTP/1.1" 400 522 "-" "-"
+82.213.78.2 - - [08/Feb/2015:22:04:52 -0200] "GET /cgi-bin/test-cgi HTTP/1.1" 404 532 "-" "the beast"
+82.138.16.125 - - [08/Feb/2015:23:09:41 -0200] "GET /manager/html HTTP/1.1" 404 502 "-" "Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0"
+
+Quantos IPs diferentes na fazendo as requisicoes?
+Cortar a primeira coluna (f1) usando o delimitrador espaco (" ")
+Agrupar por resultados unicos (sort -u)
+Contar as linha (wc -l)
+└─$ cat access.log | cut -d " " -f 1 | sort -u | wc -l
+
+79
+
+Quantas ocorrencias unicas de cada IP?
+└─$ cat access.log | cut -d " " -f 1 | sort | uniq -c | sort -nr
+  37038 177.138.28.7
+    161 189.36.234.53
+     49 187.101.118.104
+     45 191.181.5.157
+     32 199.193.251.194
+     31 85.236.52.212
+     29 187.38.19.108
+     26 201.46.150.143
+     25 189.109.40.130
+     25 177.94.112.125 ...
+
+Time of first get
+└─$ cat access.log| grep 177.138.28.7 | head -n1     
+177.138.28.7 - - [13/Feb/2015:00:21:12 -0200] "GET / HTTP/1.1" 200 2533 "https://www.facebook.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36"
+
+Time of last get 
+└─$ cat access.log| grep 177.138.28.7 | tail -n1
+177.138.28.7 - - [13/Feb/2015:08:58:35 -0200] "GET /cgi-bin/mchat.cgi HTTP/1.1" 404 540 "-" "Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:001526)"
+
+Analisar tempo entre as requisicoes, user agent, ferramentas (nmap, nikito)
+└─$ cat access.log| grep 177.138.28.7 | head -n500
+
+Filtrar requisicoes que retornaram ok
+└─$ cat access.log| grep 177.138.28.7 | cut -d "]" -f2| grep "200" 
+
+Filtrar requisicoes not found
+└─$ cat access.log| grep 177.138.28.7 | cut -d "]" -f2| grep "400" 
+
+Filtrar requisicoes redirect
+└─$ cat access.log| grep 177.138.28.7 | cut -d "]" -f2| grep "301"
+
+
+
+LAB 01 EXERCICIES
+
+1 - Quantos endereços IPs estão envolvidos no log?
+setentaenove
+
+└─$ cat access.log | cut -d " " -f 1 | sort | uniq -c | sort -n | wc -l   
+79
+
+2 - Qual o endereço IP do atacante?
+177.138.28.7
+
+└─$ cat access.log | cut -d " " -f 1 | sort | uniq -c | sort -nr       
+  37038 177.138.28.7
+*baseado no maximo numero de requisicoes, fez muito barulho. 
+
+3 - Quando o ataque começou e quando terminou?
+13/02/2015:00:21:12,13/02/2015:08:58:35
+
+└─$ cat access.log| grep 177.138.28.7 | head -n1                          
+177.138.28.7 - - [13/Feb/2015:00:21:12 -0200] "GET / HTTP/1.1" 200 2533 "https://www.facebook.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36"
+                                                                                                                                                                     
+└─$ cat access.log| grep 177.138.28.7 | tail -n1                       
+177.138.28.7 - - [13/Feb/2015:08:58:35 -0200] "GET /cgi-bin/mchat.cgi HTTP/1.1" 404 540 "-" "Mozilla/5.00 (Nikto/2.1.6) (Evasions:None) (Test:001526)"
+
+4 - Examine o arquivo de log e identifique o endereço IP do atacante. Arquivo para a análise: LAB.LOG
+205.251.150.186
+
+└─$ cat lab.log | cut -d " " -f1 | sort | uniq -c | sort -nr 
+   1896 205.251.150.186
+
+5 - Examine o arquivo de log e responda em qual diretório o atacante encontrou a informação sensível?
+configuracoes
+
+└─$ cat lab.log | grep "205.251.150.186" | grep "200 "
+└─$ cat lab.log | grep "205.251.150.186" | grep "configuracoes" 
+205.251.150.186 - - [12/Sep/2019:11:08:48 -0300] "GET /configuracoes/db.sql HTTP/1.1" 200 573 "-" "Wget/1.20.3 (linux-gnu)"
+
+6 - Examine o arquivo de log e responda qual o nome do arquivo sensível que o atacante baixou.
+db.sql
+
+7 - Examine o arquivo de log e responda qual o nome e versão da ferramenta utilizada para baixar o arquivo sensível?
+Wget/1.20.3
+
+8 - Examine o arquivo de log e informe qual a data e hora que o atacante realizou o download do arquivo sensível?
+12/09/2019:11:08:48
+
+9 - Examine o arquivo de log e informe qual foi o próximo diretório que o atacante comprometeu após efetuar download do arquivo sensível?
+intranet
+
+205.251.150.186 - - [12/Sep/2019:11:09:04 -0300] "GET /intranet/ HTTP/1.1" 200 377 "-" "curl/7.65.1"
+
+10 - Examine o arquivo de log e responda em qual horário o atacante acessou este próximo diretório comprometido?
+12/09/2019:11:09:04
+
+11 - Examine o arquivo de log e responda qual programa o atacante utilizou para acessar este diretório comprometido pela primeira vez?
+curl/7.65.1
+
+12 - Examine o arquivo de log e responda qual a versão do navegador usado pelo atacante ao acessar o diretório comprometido?
+Firefox/60.0
+
+205.251.150.186 - - [12/Sep/2019:11:09:16 -0300] "GET /intranet/ HTTP/1.1" 200 406 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0"
+
+

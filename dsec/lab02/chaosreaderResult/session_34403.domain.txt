@@ -1,0 +1,17 @@
+;; HEADER SECTION
+;;	id = 13104
+;;	qr = 1	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 1	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 1	nscount = 0	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; 129.65.212.179.in-addr.arpa.	IN	PTR
+
+;; ANSWER SECTION (1 record)
+129.65.212.179.in-addr.arpa.	132	IN	PTR	b3d44181.virtua.com.br.
+
+;; AUTHORITY SECTION (0 records)
+
+;; ADDITIONAL SECTION (0 records)
+

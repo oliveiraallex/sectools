@@ -1,0 +1,61 @@
+12   13:09:43 GET http://260:1419:a00:::bad3:c51b/success.txt   
+16   13:09:43 GET http://280:3f0:401:8b:::20e/   
+18   13:09:43 GET http://280:3f0:401:814:::204/   Sets cookie.
+21   13:09:43 POST http://280:3f0:401:81c:::203/gts1o1   
+21   13:09:44 POST http://280:3f0:401:81c:::203/gts1o1   
+12   13:09:44 GET http://260:1419:a00:::bad3:c51b/success.txt   
+30   13:09:44 POST http://280:3f0:401:81c:::203/gts1o1   
+36   13:09:45 POST http://192.16.58.8/   
+21   13:09:45 POST http://280:3f0:401:81c:::203/gts1o1   
+30   13:09:46 POST http://280:3f0:401:81c:::203/gts1o1   
+58   13:09:49 GET http://37.59.174.225/   
+58   13:09:49 GET http://37.59.174.225/css/default.css Referer: http://businesscorp.com.br/  
+65   13:09:49 GET http://280:3f0:401:817:::20a/ajax/libs/jquery/1.10.2/jquery.min.js Referer: http://businesscorp.com.br/  
+60   13:09:49 GET http://37.59.174.225/css/layout.css Referer: http://businesscorp.com.br/  
+59   13:09:49 GET http://37.59.174.225/css/media-queries.css Referer: http://businesscorp.com.br/  
+62   13:09:49 GET http://37.59.174.225/js/modernizr.js Referer: http://businesscorp.com.br/  
+61   13:09:49 GET http://37.59.174.225/js/jquery-migrate-1.2.1.min.js Referer: http://businesscorp.com.br/  
+63   13:09:49 GET http://37.59.174.225/js/waypoints.js Referer: http://businesscorp.com.br/  
+58   13:09:49 GET http://37.59.174.225/css/fonts.css Referer: http://businesscorp.com.br/css/default.css  
+60   13:09:50 GET http://37.59.174.225/js/jquery.countdown.js Referer: http://businesscorp.com.br/  
+62   13:09:50 GET http://37.59.174.225/js/jquery.placeholder.js Referer: http://businesscorp.com.br/  
+66   13:09:50 GET http://37.59.174.225/js/backstretch.js Referer: http://businesscorp.com.br/  
+61   13:09:50 GET http://37.59.174.225/js/init.js Referer: http://businesscorp.com.br/  
+59   13:09:50 GET http://37.59.174.225/css/fontello/css/fontello.css Referer: http://businesscorp.com.br/css/default.css  
+63   13:09:50 GET http://37.59.174.225/css/font-awesome/css/font-awesome.min.css Referer: http://businesscorp.com.br/css/default.css  
+59   13:09:50 GET http://37.59.174.225/images/preloader.gif Referer: http://businesscorp.com.br/  
+60   13:09:50 GET http://37.59.174.225/images/logo.png Referer: http://businesscorp.com.br/  
+62   13:09:50 GET http://37.59.174.225/css/fonts/merriweather/merriweather-regular-webfont.woff Referer: http://businesscorp.com.br/css/fonts.css  
+63   13:09:50 GET http://37.59.174.225/images/header-background.jpg Referer: http://businesscorp.com.br/css/layout.css  
+61   13:09:50 GET http://37.59.174.225/css/fonts/montserrat/montserrat-bold-webfont.woff Referer: http://businesscorp.com.br/css/fonts.css  
+66   13:09:50 GET http://37.59.174.225/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 Referer: http://businesscorp.com.br/css/font-awesome/css/font-awesome.min.css  
+67   13:09:50 GET http://37.59.174.225/css/fonts/montserrat/montserrat-regular-webfont.woff Referer: http://businesscorp.com.br/css/fonts.css  
+60   13:09:50 GET http://37.59.174.225/css/fonts/merriweather/merriweather-light-webfont.woff Referer: http://businesscorp.com.br/css/fonts.css  
+59   13:09:51 GET http://37.59.174.225/favicon.png   
+6118 13:10:12 POST http://192.16.58.8/   
+6117 13:10:12 POST http://192.16.58.8/   
+6117 13:10:12 POST http://192.16.58.8/   
+6118 13:10:12 POST http://192.16.58.8/   
+6118 13:10:13 POST http://192.16.58.8/   
+8090 13:10:17 GET http://37.59.174.225/css/fontello/font/fontello.woff?13439518 Referer: http://businesscorp.com.br/css/fontello/css/fontello.css  
+10916 13:10:23 GET http://37.59.174.225/cadastro.php Referer: http://businesscorp.com.br/  
+11004 13:10:23 GET http://37.59.174.225/favicon.ico   
+11004 13:10:24 GET http://37.59.174.225/favicon.ico   
+11004 13:10:25 GET http://37.59.174.225/favicon.ico   
+17398 13:10:37 GET http://37.59.174.225/cadastro.php Referer: http://businesscorp.com.br/  
+19614 13:10:41 POST http://280:3f0:401:81a:::203/gts1o1   
+19623 13:10:41 POST http://172.217.172.131/gts1o1   
+92655 13:13:35 GET http://260:1419:a00:::bad3:c518/success.txt   
+92655 13:13:35 GET http://260:1419:a00:::bad3:c518/success.txt   
+92658 13:13:35 GET http://280:3f0:401:83:::20e/   
+92660 13:13:35 GET http://280:3f0:401:817:::204/   Sets cookie.
+92663 13:13:36 POST http://280:3f0:401:81a:::203/gts1o1   
+92663 13:13:37 POST http://280:3f0:401:81a:::203/gts1o1   
+92668 13:13:37 POST http://280:3f0:401:81a:::203/gts1o1   
+92663 13:13:37 POST http://280:3f0:401:81a:::203/gts1o1   
+92668 13:13:38 POST http://280:3f0:401:81a:::203/gts1o1   
+92686 13:13:47 POST http://280:3f0:401:81a:::203/gts1o1   
+92688 13:13:47 GET http://37.59.174.225/app   
+92688 13:13:48 GET http://37.59.174.225/app/   
+92689 13:13:48 GET http://37.59.174.225/favicon.ico   
+92689 13:13:48 GET http://37.59.174.225/favicon.ico   

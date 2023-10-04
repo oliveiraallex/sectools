@@ -1,0 +1,17 @@
+;; HEADER SECTION
+;;	id = 46255
+;;	qr = 1	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 1	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 1	nscount = 0	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; 235.231.187.37.in-addr.arpa.	IN	PTR
+
+;; ANSWER SECTION (1 record)
+235.231.187.37.in-addr.arpa.	15601	IN	PTR	vl1247.gra-d1-a75.fr.eu.
+
+;; AUTHORITY SECTION (0 records)
+
+;; ADDITIONAL SECTION (0 records)
+

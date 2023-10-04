@@ -1,0 +1,17 @@
+;; HEADER SECTION
+;;	id = 16055
+;;	qr = 1	aa = 0	tc = 0	rd = 1	opcode = QUERY
+;;	ra = 1	z  = 0	ad = 0	cd = 0	rcode  = NOERROR
+;;	qdcount = 1	ancount = 1	nscount = 0	arcount = 0
+;;	do = 0
+
+;; QUESTION SECTION (1 record)
+;; 150.146.99.192.in-addr.arpa.	IN	PTR
+
+;; ANSWER SECTION (1 record)
+150.146.99.192.in-addr.arpa.	15605	IN	PTR	bhs-vac1-a75-2.qc.ca.
+
+;; AUTHORITY SECTION (0 records)
+
+;; ADDITIONAL SECTION (0 records)
+
