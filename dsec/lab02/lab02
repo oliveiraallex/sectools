@@ -1,3 +1,11 @@
 
 
-└─$ tcpdump -vnr scan_interno.pcap | cut -d " " -f 5 | grep -v ttl | sort -u | cut -d "." -f1,2,3,4 | uniq -c | grep -v "1 " 
+Mostrar IPs origem
+
+tcpdump -vnr invasao.pcap | cut -d " " -f 5 | grep -v ttl | sort -u | cut -d "." -f1,2,3,4 | uniq -c |  sort -nr | grep -E "[0-9]{2,3}.[0-9]{2,3}.[0-9]{2,3}.[0-9]{2,3}"
+
+
+Mostrar IPs destino
+
+tcpdump -vnr invasao.pcap | cut -d " " -f 7 | grep -v id | sort -u | cut -d "." -f1,2,3,4 | uniq -c |  sort -nr | grep -E "[0-9]{2,3}.[0-9]{2,3}.[0-9]{2,3}.[0-9]{2,3}" 
+
