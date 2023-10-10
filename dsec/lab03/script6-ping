@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "DESEC Security"
+echo "Type the ip"
+read ip
+echo "Pinging in the host: " $ip
+ping -c1 $ip
