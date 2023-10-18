@@ -1,254 +1,646 @@
 <!DOCTYPE html>
-<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"  lang="pt-BR" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"  lang="pt-BR" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"  lang="pt-BR" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="pt-BR" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+
 <head>
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="http://www.nxtc.com.br/xmlrpc.php" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    
+    
+<!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>NXTC Nextec IT Solutions - Suporte Técnico em Informática</title>
+<meta name="description" content="A Nextec atua com Tecnologia da Informação, especializada em Gestão e Infraestrutura de TI, Suporte Técnico em Computadores, Cabeamento Estruturado, CFTV"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.nxtc.com.br/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="NXTC Nextec IT Solutions - Suporte Técnico em Informática" />
+<meta property="og:description" content="A Nextec atua com Tecnologia da Informação, especializada em Gestão e Infraestrutura de TI, Suporte Técnico em Computadores, Cabeamento Estruturado, CFTV" />
+<meta property="og:url" content="http://www.nxtc.com.br/" />
+<meta property="og:site_name" content="NXTC Nextec IT Solutions" />
+<meta property="og:image" content="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Servicos1-e1434942411140.png" />
+<meta property="og:image" content="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Servicos-e1434942529420.png" />
+<meta property="og:image" content="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Circuito-Fechado-de-TV-CFTV-Servicos-e1434942654387.png" />
+<meta property="og:image" content="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital-Servicos-e1434942907739.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="A Nextec atua com Tecnologia da Informação, especializada em Gestão e Infraestrutura de TI, Suporte Técnico em Computadores, Cabeamento Estruturado, CFTV" />
+<meta name="twitter:title" content="NXTC Nextec IT Solutions - Suporte Técnico em Informática" />
+<meta name="twitter:image" content="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Servicos1-e1434942411140.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.nxtc.com.br\/","name":"NXTC Nextec IT Solutions","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.nxtc.com.br\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.nxtc.com.br\/","sameAs":[],"@id":"#organization","name":"Nextec IT Solutions","logo":"http:\/\/www.nxtc.com.br\/wp-content\/uploads\/2015\/07\/Nextec-IT-Solutions-Belo-Horizonte-Tecnologia-Suporte-Computadores-CFTV-Seguranca.png"}</script>
+<!-- / Yoast SEO plugin. -->
 
-   <!--- Basic Page Needs
-   ================================================== -->
-   <meta charset="utf-8">
-	<title>Business Corp</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para NXTC Nextec IT Solutions &raquo; Home" href="http://www.nxtc.com.br/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.nxtc.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.27"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<base target="_parent" /><link rel='stylesheet' id='vina-camera-css-css'  href='http://www.nxtc.com.br/wp-content/plugins/vina-camera-widget/includes/css/camera.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='vina-camera-admin-css-css'  href='http://www.nxtc.com.br/wp-content/plugins/vina-camera-widget/includes/admin/css/style.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='vina-woocategory-admin-css-css'  href='http://www.nxtc.com.br/wp-content/plugins/vina-treeview-menu/includes/admin/css/style.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='vina-woocategory-site-css-css'  href='http://www.nxtc.com.br/wp-content/plugins/vina-treeview-menu/includes/css/style.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='vina-woo-scroller-css-css'  href='http://www.nxtc.com.br/wp-content/plugins/vina-wooproducts-scroller/includes/css/style.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='vina-woo-scroller-admin-css-css'  href='http://www.nxtc.com.br/wp-content/plugins/vina-wooproducts-scroller/includes/admin/css/style.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='color-box-css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/colorbox.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_font-awesome_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_fornt_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/front.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/font/fawesome/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-frb_awesome-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/font/frb_fawesome/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-creative-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/font/alternative/styles.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='font-alternative-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/font/creative/styles.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='font-new_creative-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/font/alternative_new/style.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='font-new_alternative-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/font/creative_new/style.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_prettyphoto_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/jquery.prettyphoto.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_swiper_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/idangerous.swiper.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_YTPlayer_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/mb.YTVPlayer.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_flipclock_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/timer2.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_mb_comingsoon_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/mb-comingsoon.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_animate_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/animate.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_contact_ui_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/contact-ui.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_shortcode_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/shortcodes.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_pbs_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/pbs.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='pbuilder_fp_css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/minimalist.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='progressbar-css-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder//css/progressbar.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='GDwidgetStylesheet-css'  href='http://www.nxtc.com.br/wp-content/plugins/profit_builder/css/style.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.min.css-css'  href='http://www.nxtc.com.br/wp-content/themes/nextec/css/bootstrap.min.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome.css-css'  href='http://www.nxtc.com.br/wp-content/plugins/helix/css/font-awesome.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-responsive.min.css-css'  href='http://www.nxtc.com.br/wp-content/themes/nextec/css/bootstrap-responsive.min.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='theme.css-css'  href='http://www.nxtc.com.br/wp-content/themes/nextec/css/theme.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='presets/preset1.css-css'  href='http://www.nxtc.com.br/wp-content/themes/nextec/css/presets/preset1.css?ver=4.7.27' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.nxtc.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce_frontend_styles-css'  href='http://www.nxtc.com.br/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.7.27' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.colorbox-min.js?ver=4.7.27'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.colorbox.js?ver=4.7.27'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder//js/form_validate.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/helix/js/bootstrap.min.js?ver=4.7.27'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/themes/nextec/js/helix.core.js?ver=4.7.27'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/helix/js/modernizr-2.6.2.min.js?ver=4.7.27'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/helix/js/menu.js?ver=4.7.27'></script>
+<link rel='https://api.w.org/' href='http://www.nxtc.com.br/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.nxtc.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.nxtc.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.27" />
+<link rel='shortlink' href='http://www.nxtc.com.br/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.nxtc.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nxtc.com.br%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.nxtc.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nxtc.com.br%2F&#038;format=xml" />
 
-   <!-- Mobile Specific Metas
-   ================================================== -->
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<style>
+	.pbuilder_column{
+		font-family: Open Sans, serif; 
+	}	
+</style>
+<style>
+#pbuilder_content_wrapper .pbuilder_row > div:last-child, .anivia_row > div:last-child,  #pbuilder_wrapper.pbuilder_wrapper_one-fourth-right-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-fourth-left-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-third-right-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-third-left-sidebar {
+	margin: 0px -24px;
+}
 
-	<!-- CSS
-    ================================================== -->
-   <link rel="stylesheet" href="css/default.css">
-	<link rel="stylesheet" href="css/layout.css">
-   <link rel="stylesheet" href="css/media-queries.css">    
+.pbuilder_column.pbuilder_column-1-1, .pbuilder_column.pbuilder_column-1-2, .pbuilder_column.pbuilder_column-1-3, .pbuilder_column.pbuilder_column-2-3, .pbuilder_sidebar.pbuilder_one-fourth-right-sidebar, .pbuilder_sidebar.pbuilder_one-fourth-left-sidebar, .pbuilder_sidebar.pbuilder_one-third-right-sidebar, .pbuilder_sidebar.pbuilder_one-third-left-sidebar, .pbuilder_column.pbuilder_column-1-4, .pbuilder_column.pbuilder_column-3-4, .pbuilder_column.pbuilder_column-1-5, .pbuilder_column.pbuilder_column-2-5, .pbuilder_column.pbuilder_column-3-5, .pbuilder_column.pbuilder_column-4-5, .pbuilder_wrapper_one-fourth-left-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-third-left-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-fourth-right-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-third-right-sidebar #pbuilder_content_wrapper{
+	border-right:24px solid transparent;
+	border-left:24px solid transparent;
+}
 
-   <!-- Script
-   ================================================== -->
-	<script src="js/modernizr.js"></script>
+@media screen and (max-width: 1200px) {
 
-   <!-- Favicons
-	================================================== -->
-	<link rel="shortcut icon" href="favicon.png" >
+	#pbuilder_content_wrapper .pbuilder_row > div:last-child, .anivia_row > div:last-child,  #pbuilder_wrapper.pbuilder_wrapper_one-fourth-right-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-fourth-left-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-third-right-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-third-left-sidebar {
+		margin: 0px -18px;
+	}
+	.pbuilder_column.pbuilder_column-1-1, .pbuilder_column.pbuilder_column-1-2, .pbuilder_column.pbuilder_column-1-3, .pbuilder_column.pbuilder_column-2-3, .pbuilder_sidebar.pbuilder_one-fourth-right-sidebar, .pbuilder_sidebar.pbuilder_one-fourth-left-sidebar, .pbuilder_sidebar.pbuilder_one-third-right-sidebar, .pbuilder_sidebar.pbuilder_one-third-left-sidebar, .pbuilder_column.pbuilder_column-1-4, .pbuilder_column.pbuilder_column-3-4, .pbuilder_column.pbuilder_column-1-5, .pbuilder_column.pbuilder_column-2-5, .pbuilder_column.pbuilder_column-3-5, .pbuilder_column.pbuilder_column-4-5, .pbuilder_wrapper_one-fourth-left-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-third-left-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-fourth-right-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-third-right-sidebar #pbuilder_content_wrapper{
+		border-right:18px solid transparent;
+		border-left:18px solid transparent;
+	}
+}
+@media screen and (max-width: 960px) {
+	#pbuilder_content_wrapper .pbuilder_row > div:last-child, .anivia_row > div:last-child,  #pbuilder_wrapper.pbuilder_wrapper_one-fourth-right-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-fourth-left-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-third-right-sidebar, #pbuilder_wrapper.pbuilder_wrapper_one-third-left-sidebar {
+		margin: 0px -12px;
+	}
 
-</head>
-
-<body>
-
-	<div id="preloader">      
-      <div id="status">
-         <img src="images/preloader.gif" height="64" width="64" alt="">
-      </div>
-   </div>
-
-   <!-- Intro Section
-   ================================================== -->
-   <section id="intro">
-
-   	<header class="row">	 
-
-			<div id="logo" >
-				<a href="#" >
-                 <img src="images/logo.png" alt="Zoon">              </a>			</div>
-
-<nav id="nav-wrap">
-
-		      <a class="menu-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
-			   <a class="menu-btn" href="#" title="Hide navigation">Hide navigation</a>
-
-<ul id="nav" class="nav">
-		         <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
-		         <li><a class="smoothscroll" href="#about">Nosso Negócio</a></li>			         
-			      <li><a class="smoothscroll" href="#location">Location</a></li>
-		      </ul> 
-<!-- end #nav -->
-
-		   </nav> <!-- end #nav-wrap --> 	        
-
-   	</header> <!-- Header End -->   	
-
-   	<div  id="main" class="row">
-
-	   	<div class="twelve columns">
-	   			
-	   		<h1>Feito para facilitar sua vida</h1>
-
-	   		<p>O cartão que você precisava para administrar sua vida</p>
-
-	   		<h5>Peça já o seu</h5>
-	   		<p>&nbsp;</p>
-	  <ul class="social">
-	            <li><a href="cadastro.php">#Cadastro
-        <li><a href="http://37.59.174.233:8080">|#Clientes
-        <li><a href="http://intranet.businesscorp.com.br">|#Intranet
-        <li><a href="http://mail.businesscorp.com.br">|#Mail</a>
-        <li><a href="http://parsingok.businesscorp.com.br"></a>
-        <li><a href="http://srvkey.businesscorp.com.br"></a>
-        </ul>
-
-         </div> 
-
-      </div> <!-- main end -->    	
-
-   </section> <!-- end intro section -->
+	.pbuilder_column.pbuilder_column-1-1, .pbuilder_column.pbuilder_column-1-2, .pbuilder_column.pbuilder_column-1-3, .pbuilder_column.pbuilder_column-2-3, .pbuilder_sidebar.pbuilder_one-fourth-right-sidebar, .pbuilder_sidebar.pbuilder_one-fourth-left-sidebar, .pbuilder_sidebar.pbuilder_one-third-right-sidebar, .pbuilder_sidebar.pbuilder_one-third-left-sidebar, .pbuilder_column.pbuilder_column-1-4, .pbuilder_column.pbuilder_column-3-4, .pbuilder_column.pbuilder_column-1-5, .pbuilder_column.pbuilder_column-2-5, .pbuilder_column.pbuilder_column-3-5, .pbuilder_column.pbuilder_column-4-5, .pbuilder_wrapper_one-fourth-left-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-third-left-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-fourth-right-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-third-right-sidebar #pbuilder_content_wrapper{
+		border-right:12px solid transparent;
+		border-left:12px solid transparent;
+	}
+}
+@media screen and (max-width: 768px) {
+	.pbuilder_column.pbuilder_column-1-1, .pbuilder_column.pbuilder_column-1-2, .pbuilder_column.pbuilder_column-1-3, .pbuilder_column.pbuilder_column-2-3, .pbuilder_sidebar.pbuilder_one-fourth-right-sidebar, .pbuilder_sidebar.pbuilder_one-fourth-left-sidebar, .pbuilder_sidebar.pbuilder_one-third-right-sidebar, .pbuilder_sidebar.pbuilder_one-third-left-sidebar, .pbuilder_column.pbuilder_column-1-4, .pbuilder_column.pbuilder_column-3-4, .pbuilder_column.pbuilder_column-1-5, .pbuilder_column.pbuilder_column-2-5, .pbuilder_column.pbuilder_column-3-5, .pbuilder_column.pbuilder_column-4-5, .pbuilder_wrapper_one-fourth-left-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-third-left-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-fourth-right-sidebar #pbuilder_content_wrapper, .pbuilder_wrapper_one-third-right-sidebar #pbuilder_content_wrapper{
+		width:100%;
+		border-width:0;
+	}
+	.frb_pricing_column_label {
+		display:none;
+	}
+	.frb_pricing_container_1col table {
+		width:100% !important;
+	}
+	.frb_pricing_container_2col table{
+		width:200% !important;
+	}
+	.frb_pricing_container_3col table{
+		width:300% !important;
+	}
+	.frb_pricing_container_4col table{
+		width:400% !important;
+	}
+	.frb_pricing_container_5col table{
+		width:500% !important;
+	}
+	.frb_pricing_table td {
+		border-right:0 !important;
+	}
+	#pbuilder_content_wrapper .pbuilder_row > div:last-child, .anivia_row > div:last-child,  .pbuilder_wrapper_one-third-left-sidebar .pbuilder_row, .pbuilder_wrapper_one-third-right-sidebar .pbuilder_row, .pbuilder_wrapper_one-fourth-left-sidebar .pbuilder_row, .pbuilder_wrapper_one-fourth-right-sidebar .pbuilder_row, .pbuilder_row_controls  {
+		margin: 0px;
+	}
+	.frb_pricing_controls,
+	.frb_pricing_section_responsive,
+	.frb_pricing_label_responsive {
+		display:block;
+	}
 
 
-   <!-- About Section
-   ================================================== -->
-   <section id="about">
+}
 
-      <div class="row section-header">
 
-      	<div class="twelve columns">	
 
-      		<div class="icon-wrap">
-            	<i class="fa fa-group"></i>
-         	</div>
+</style>
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.nxtc.com.br/?wordfence_logHuman=1&hid=2EF421B475D1EC6C73F798C4CEA48F00');
+</script><style tyle="text/css">.container {max-width: 1170px;}</style></head>
 
-	         <h1>Nosso Negócio.</h1>
-
-	         <p class="lead">Em 8 anos de Gbusiness nos tornamos referencia na administração de convenios de cartões. 
-	         </p>
-
-         </div>
-
-      </div> <!-- end section-header -->             	
-
-      <div class="row section-content">
+<body id="sp-wrapper" class="home page-template-default page page-id-809 preset1 ltr responsive hfeed bg">
+<div id="sp-top-wrapper">
+	<div class="container">
+		<div class="row-fluid">
+			<div id="sp-menu" class="span7">
 				
-			<div class="six columns">
-		      <h3>Cartões Empresariais.</h3>
+<div class="mobile-menu pull-right btn hidden-desktop" id="sp-moble-menu">
+	<i class="icon-align-justify"></i>
+</div>
 
-		      <p>Crie uma cartão personalizado para sua empresa, assim seus cliente podem pagar com o cartão do seu proprio negocios e obter descontos. 
-		      </p>
-	      </div>
+<nav id="sp-main-menu" class="visible-desktop pull-left" role="navigation"><div class="main-navigation"><ul id="menu-main-menu" class="sp-menu level-0"><li id="menu-item-761" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active" ><a class="menu-item" href="http://www.nxtc.com.br/">Home</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page" ><a class="menu-item" href="http://www.nxtc.com.br/sobre-a-nextec/">Sobre nós</a></li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page" ><a class="menu-item" href="http://www.nxtc.com.br/servicos/">Serviços</a></li>
+<li id="menu-item-763" class="menu-item menu-item-type-post_type menu-item-object-page" ><a class="menu-item" href="http://www.nxtc.com.br/suporte/">Suporte</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page" ><a class="menu-item" href="http://www.nxtc.com.br/contato/">Contato</a></li>
+</ul></div></nav>
 
-	      <div class="six columns">
-		      <h3>Cartões Conveniados</h3>
-
-		      <p>É um cartão que possui uma rede de parceiros onde é possivel obter grandes descontos nas compras. 
-		      </p>
-	      </div>            
-
-      </div> <!-- end section-content -->  
-
-      <div class="row section-content">
-				
-			<div class="six columns">
-		      <h3>Para você</h3>
-
-		      <p>Tenha mais conforto ao comprar com facilidade e segurança
-		      </p>
-	      </div>
-
-	      <div class="six columns">
-		      <h3>Trabalhe conosco</h3>
-
-		      <p>Se deseja fazer parte da nossa equipe entre na nossa pagina de <a href="http://rh.businesscorp.com.br">RH.</a>
-		      </p>
-	      </div>            
-
-      </div> <!-- end section-content -->       
-
-      <div id="call-to-action">	       
-
-		   <div class="row section-ads">
-
-		      <div class="twelve columns">		         		
-
-			      <h2><a href="#">Se cadastre agora mesmo!</a></h2>
-
-			      	<div class="action">
-			         <a href="#" class="button">Cadastrar</a>
-	         	</div>
-
-			   </div>
-
-		   </div> <!-- end section-ads -->		         	         
-
-	   </div> <!-- end call-to-action -->		   	
-
-   </section> <!-- About Section End-->    
-
-
-   <!-- Location Section
-   ================================================== -->
-	<section id="location">
-
-		<div class="contacts">		
-			
-			<div class="row contact-details">		           		         
-
-			   <div class="columns">
-
-				   <h3><i class="fa fa-home"></i>businessCorp</h3>
-				   <p><br>
-						Business Corp <br>
-						www.businesscorp.com.br
-					</p>
-
-			   </div> 
-
-			   <div class="columns">
-
-				   <h3><i class="fa fa-phone"></i>Phone Numbers.</h3>
-				   <p>Phone: (000) 777 1515<br>
-				   	Mobile: (000) 777 0100<br>
-				   	Fax: (000) 777 0101
-				   </p>
-
-			   </div>	 
-
-			   <div class="columns end">
-
-				   <h3><i class="fa fa-envelope"></i>Emails.</h3>
-				   <p>rogerio@businesscorp.com.br<br>
-				   	camila@businesscorp.com.br <br>
-				   	ti@businesscorp.com.br
-				   </p>
-
-			   </div>          	
-
-		 	</div> <!-- end contact-details -->		  
-
-		</div> <!-- end contacts -->
-
-	   </section> <!-- end location section -->
-
-   <!-- footer
-   ================================================== -->
-   <footer>
-
-      <div class="row">
-
-         <div class="twelve columns">            
-
-            <ul class="copyright">
-               <li>&copy; Copyright 2014</li>
-               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>          
-               <li>&copy; *Empresa ficticia criada apenas para treinamento da Desec Security*</li>
-            </ul>
-
-         </div>          
-
-      </div>
-
-      <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#intro"><i class="icon-up-open"></i></a></div>
-
-   </footer> <!-- Footer End-->   
-
-   <!-- Java Script
-   ================================================== -->
-   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
-   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
-
+<script type="text/javascript">
+	jQuery(function($){
+		mainmenu();
+		
+		$(window).on('resize',function(){
+			mainmenu();
+		});
+		
+		function mainmenu() {
+			$('.sp-menu').spmenu({
+				startLevel: 0,
+				direction:'ltr',
+				initOffset: {
+					x:0,
+					y:0				},
+				subOffset: {
+					x:0,
+					y:0				},
+				center:0			});
+		}
+		
+		//Mobile Menu
+		$('#sp-main-menu > > ul').mobileMenu({
+			defaultText:'--Select Menu--',
+			appendTo: '#sp-moble-menu'
+		});
+		
+	});
 	
-   
-   <script src="js/waypoints.js"></script>
-   <script src="js/jquery.countdown.js"></script>
-   <script src="js/jquery.placeholder.js"></script>
-   <script src="js/backstretch.js"></script>  
-   <script src="js/init.js"></script>
+</script>			</div>
+			<div class="span5 menu-top-right">
+							</div>
+		</div>
+    </div>
+</div>
+<header id="sp-header-wrapper" role="banner">
+    <div class="container">
+		<div class="row-fluid">
+			<div class="span4 logo-header">
+				
+	
+	<a id="logo" style="width:300px; height:106px" class="pull-left" href="http://www.nxtc.com.br/" title="NXTC Nextec IT Solutions" rel="home"></a>
+
+			</div>
+			<div class="span4 visible-desktop">
+							</div>
+            <div class="span4 shopcart">
+				                <div id="sp-position-shoppingcart">
+                    <div id="search-2" class=" sp-widget widget_search"><div class="search-form pull-right">
+	<form method="get" id="searchform" class="form-inline" action="http://www.nxtc.com.br/">
+		<div class="input-append">
+		  <input type="text" name="s" class="input-medium" id="s" placeholder="Procurar" />
+		  <button class="btn btn-primary" type="submit"><i class="icon-search"></i></button>
+		</div>
+	</form>
+</div>
+</div>                </div>
+                			</div>
+		</div>
+    </div>
+</header>
+<div id="sp-menu-wrapper">
+	<div class="container">
+		        
+<div class="mobile-menu pull-right btn hidden-desktop" id="sp-moble-categories">
+	Serviços &nbsp;
+	<i class="icon-align-justify"></i>
+</div>
+
+<nav id="sp-main-categories" class="visible-desktop pull-left" role="navigation"><div class="main-navigation"><ul id="menu-menu-header" class="sp-menu level-0"><li id="menu-item-361" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active" ><a class="menu-item" href="http://www.nxtc.com.br/"><i class="icon-home"></i><span>Home</span></a></li>
+<li id="menu-item-781" class="menu-item menu-item-type-custom menu-item-object-custom" ><a class="menu-item" href="http://www.nxtc.com.br/gestao-de-ti/">Gestão em TI</a></li>
+<li id="menu-item-782" class="menu-item menu-item-type-custom menu-item-object-custom" ><a class="menu-item" href="http://www.nxtc.com.br/cabeamento-estruturado/">Cabeamento</a></li>
+<li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom" ><a class="menu-item" href="http://www.nxtc.com.br/circuito-fechado-de-tv/">CFTV</a></li>
+<li id="menu-item-790" class="menu-item menu-item-type-custom menu-item-object-custom" ><a class="menu-item" href="http://www.nxtc.com.br/seguranca-digital/">Segurança Digital</a></li>
+</ul></div></nav>
+<script type="text/javascript">
+	jQuery(function($){
+		
+		//Mobile Menu
+		$('#sp-main-categories > > ul').mobileMenu({
+			defaultText:'--Selecione um serviço--',
+			appendTo: '#sp-moble-categories'
+		});
+		
+	});
+	
+</script>    </div>
+</div>
+	<div id="sp-feature-wrapper">
+		                <div id="sp-position-feature">
+                    <div id="camera_widget-2" class=" sp-widget camera_widget"><div class="camera_wrap camera_amber_skin" id="vina-camera-widget-camera_widget-2" style="height:500; width:1170;">
+        <div data-thumb="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Belo-Horizonte.jpg" data-src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Belo-Horizonte.jpg">
+        <div class="camera_caption fadeFromBottom">
+            <!-- Title Block -->
+                                    <h3>Gestão em TI</h3>
+                        
+            <!-- Content Block -->
+                        <p class="content">Cuidamos do setor de Tecnologia de sua empresa através de profissionais treinados e qualificados, enquanto você se concentra em seu Business.</p>
+            
+            <!-- Readmore Block -->
+                        <p class="view-detail"><a class="buttonlight morebutton" href="http://www.nxtc.com.br/gestao-de-ti/">Mais informações</a></p>
+                    </div>
+    </div>
+        <div data-thumb="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Belo-Horizonte.jpg" data-src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Belo-Horizonte.jpg">
+        <div class="camera_caption fadeFromBottom">
+            <!-- Title Block -->
+                                    <h3>Cabeamento Estruturado</h3>
+                        
+            <!-- Content Block -->
+                        <p class="content">A Nextec cria e executa projetos de Cabeamento Estruturado, garantindo o melhor desempenho e controle da sua rede.</p>
+            
+            <!-- Readmore Block -->
+                        <p class="view-detail"><a class="buttonlight morebutton" href="http://www.nxtc.com.br/cabeamento-estruturado/">Mais informações</a></p>
+                    </div>
+    </div>
+        <div data-thumb="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-CFTV-Cameras-Serguranca-Monitoramento-Belo-Horizonte.jpg" data-src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-CFTV-Cameras-Serguranca-Monitoramento-Belo-Horizonte.jpg">
+        <div class="camera_caption fadeFromBottom">
+            <!-- Title Block -->
+                                    <h3>Circuito Fechado de TV</h3>
+                        
+            <!-- Content Block -->
+                        <p class="content">Monitore o que acontece em sua empresa acessando o CFTV de qualquer lugar através do seu celular.</p>
+            
+            <!-- Readmore Block -->
+                        <p class="view-detail"><a class="buttonlight morebutton" href="http://www.nxtc.com.br/circuito-fechado-de-tv/">Mais informações</a></p>
+                    </div>
+    </div>
+        <div data-thumb="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital.jpg" data-src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital.jpg">
+        <div class="camera_caption fadeFromBottom">
+            <!-- Title Block -->
+                                    <h3>Segurança Digital</h3>
+                        
+            <!-- Content Block -->
+                        <p class="content">A Nextec gerencia as ameaças aos computadores e servidores de sua empresa, identificando falhas e prevenindo intrusões</p>
+            
+            <!-- Readmore Block -->
+                        <p class="view-detail"><a class="buttonlight morebutton" href="http://www.nxtc.com.br/seguranca-digital/">Mais informações</a></p>
+                    </div>
+    </div>
+    </div>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $('#vina-camera-widget-camera_widget-2').camera({
+            alignment: 		'center',
+            autoAdvance:	true,
+            hover: 		true,
+            navigation: 	true,
+            height:             '42.735042735043%'
+        });
+    });
+</script>
+</div>                </div>
+                	</div>
+
+<section id="sp-main" role="main">
+
+<div id="sp-main-body-wrapper">	
+	<div class="container" id="content">
+	
+		<div class="row-fluid">
+		
+							<aside id="leftsidebar" class="span3">
+					                <div id="sp-position-left">
+                    <div id="text-14" class=" sp-widget widget_text"><h3>Clientes</h3>			<div class="textwidget"><div class="img-left">
+<img src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Clientes.png" alt="Clientes Nextec IT Solutions Belo Horizonte" title="Clientes Nextec IT Solutions Belo Horizonte" />
+</div>
+</div>
+		</div><div id="text-8" class=" sp-widget widget_text"><h3>Receba nossas dicas</h3>			<div class="textwidget"><p>Digite seu e-mail e receba nossas dicas e notícias sobre Tecnologia e Segurança Digital</p>
+<div class="signup-from">
+<input type="text" placeholder="" />
+ <button class="btn-fashion"  type="submit">Cadastrar</button>
+</div></div>
+		</div><div id="text-9" class=" sp-widget widget_text"><h3>Entre em contato</h3>			<div class="textwidget"><ul class="contact-wrapper">
+ <li>
+<div class="row-fluid">
+<div class="span2 contact-ic"><span class="contact-icon"><i class="icon-home"></i></span></div>
+<div class="span10 contact-tx"><p>Av. Augusto de Lima 407, sala 606 Lourdes</p><p>Belo Horizonte, MG</p></div>
+</div>
+</li>
+<li>
+<div class="row-fluid">
+<div class="span2 contact-ic"><span class="contact-icon"><i class="icon-envelope"></i></span></div>
+<div class="span10 contact-tx"><p>contato@nxtc.com.br</p></div>
+</div>
+</li>
+<li>
+<div class="row-fluid">
+<div class="span2 contact-ic"><span class="contact-icon"><i class="icon-phone"></i></span></div>
+<div class="span10 contact-tx"><p>(+55) 31 2523-3459</p></div>
+</div>
+</li>
+</ul></div>
+		</div>                </div>
+                				</aside>
+						
+			<div id="contentsidebar" class="span9">
+            	            	            	                                    <div id="sp-online-shipping">
+                                        <div id="sp-position-onlineshipping-">
+                    <div id="text-10" class=" sp-widget widget_text">			<div class="textwidget"><div class="online-shipping">
+    <div class="row-fluid">
+          <div class="span6">
+                <div class="online-shipping-wrapper">
+                        <div class="row-fluid">
+                               <div class="span3 im-wrapper"><span class="online"><i class="icon-phone"></i></span></div>
+                                <div class="span9 tx-wrapper "><strong><span>Suporte </span> Técnico </strong>
+<p>Abra seu chamado<br>(+55) 31 2523-3459</p>
+</div>
+                       </div>
+             </div>
+         </div>
+        <div class="span6">
+       <div class="online-shipping-wrapper">
+                        <div class="row-fluid">
+                               <div class="span3 im-wrapper"><span class="online"><i class="icon-user"></i></span></div>
+                                <div class="span9 tx-wrapper"><strong><span>Visita</span> Técnica</strong>
+<p>Agende um orçamento<br>(+55) 31 2523-3459</p>
+</div>
+                       </div>
+             </div>
+</div>
+    </div>
+</div><br></div>
+		</div>                </div>
+                                    </div>
+                			<article id="post-809" class="post-809 page type-page status-publish hentry instock">
+		<header class="entry-header">
+			<h1 class="entry-title page-header">Home</h1>
+					</header>	
+		
+				<div class="entry-content clearfix">
+			<p><strong>Quem somos?</strong></p>
+<p style="text-align: justify;">A Nextec IT Solutions é uma empresa que atua no seguimento de Tecnologia da Informação, especializada em Gestão e Infraestrutura de TI, Suporte Técnico em Informática, Manutenção de Computadores, Assistência Técnica, Cabeamento Estruturado e Implementação da Segurança Digital, atendendo empresas de diversos seguimentos em Belo Horizonte e região.</p>
+<p style="text-align: justify;">Fundada por profissionais altamente especializados que atuam no mercado de TI desde 2006, realizamos os mais variados projetos com diversos tipos de soluções, e dessa forma podemos oferecer a solução ideal ao alcance de sua empresa.</p>
+<p style="text-align: justify;">Tão importante quanto a implantação de novas tecnologias e métodos, é sua continuidade através do suporte preventivo e corretivo. Por isso, cuidamos do setor de Tecnologia de sua empresa através de profissionais treinados e qualificados, enquanto você se concentra em seu Business.</p>
+<p style="text-align: justify;">Como podemos atender sua empresa:</p>
+<p><strong>Gestão em TI</strong></p>
+<p><a href="http://www.nxtc.com.br/gestao-de-ti/"><img class="alignnone size-full wp-image-816" src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Servicos1-e1434942411140.png" alt="Nextec Gestao em TI Servicos" width="872" height="140" srcset="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Servicos1-e1434942411140.png 872w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Servicos1-e1434942411140-300x48.png 300w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Servicos1-e1434942411140-624x100.png 624w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Servicos1-e1434942411140-90x14.png 90w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Gestao-em-TI-Servicos1-e1434942411140-150x24.png 150w" sizes="(max-width: 872px) 100vw, 872px" /></a></p>
+<p style="text-align: justify;">É basicamente a terceirização do departamento de TI de empresas que preferem delegar essa tarefa para uma equipe formada por diversos profissionais com conhecimento, compromisso e ética, que além de habituados aos desafios e dificuldades da área, podem se valer de um banco de experiências que envolvem situações de diversos segmentos de mercado. <a href="http://www.nxtc.com.br/gestao-de-ti/">Mais informações</a></p>
+<p><strong>Cabeamento estruturado</strong></p>
+<p><a href="http://www.nxtc.com.br/cabeamento-estruturado/"><img class="alignnone size-full wp-image-817" src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Servicos-e1434942529420.png" alt="Nextec Cabeamento Estruturado Servicos" width="871" height="139" srcset="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Servicos-e1434942529420.png 871w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Servicos-e1434942529420-300x48.png 300w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Servicos-e1434942529420-624x100.png 624w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Servicos-e1434942529420-90x14.png 90w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Cabeamento-Estruturado-Servicos-e1434942529420-150x24.png 150w" sizes="(max-width: 871px) 100vw, 871px" /></a></p>
+<p style="text-align: justify;">Montar uma rede estruturada em empresas modernas tem sido a solução buscada para aumentar a performance e a vida útil das redes. O cabeamento estruturado colabora para a economia de tempo e dinheiro, mas, principalmente, para o gerenciamento da rede. <a href="http://www.nxtc.com.br/cabeamento-estruturado/">Mais informações</a></p>
+<p><strong>Circuito Fechado de TV &#8211; CFTV</strong></p>
+<p><a href="http://www.nxtc.com.br/circuito-fechado-de-tv/"><img class="alignnone size-full wp-image-818" src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Circuito-Fechado-de-TV-CFTV-Servicos-e1434942654387.png" alt="Nextec Circuito Fechado de TV CFTV Servicos" width="872" height="140" srcset="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Circuito-Fechado-de-TV-CFTV-Servicos-e1434942654387.png 872w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Circuito-Fechado-de-TV-CFTV-Servicos-e1434942654387-300x48.png 300w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Circuito-Fechado-de-TV-CFTV-Servicos-e1434942654387-624x100.png 624w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Circuito-Fechado-de-TV-CFTV-Servicos-e1434942654387-90x14.png 90w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Circuito-Fechado-de-TV-CFTV-Servicos-e1434942654387-150x24.png 150w" sizes="(max-width: 872px) 100vw, 872px" /></a></p>
+<p style="text-align: justify;">Hoje, com a evolução da tecnologia, nossos clientes conseguem acompanhar tanto via internet como através de Smartfone seu sistema de CFTV em tempo real, permitindo acesso a setores de sua empresa, condomínio ou residência. <a href="http://www.nxtc.com.br/circuito-fechado-de-tv/">Mais informações</a></p>
+<p><strong>Segurança Digital</strong></p>
+<p><a href="http://www.nxtc.com.br/seguranca-digital/"><img class="alignnone size-full wp-image-821" src="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital-Servicos-e1434942907739.png" alt="Nextec Seguranca Digital Servicos" width="871" height="140" srcset="http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital-Servicos-e1434942907739.png 871w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital-Servicos-e1434942907739-300x48.png 300w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital-Servicos-e1434942907739-624x100.png 624w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital-Servicos-e1434942907739-90x14.png 90w, http://www.nxtc.com.br/wp-content/uploads/2015/06/Nextec-Seguranca-Digital-Servicos-e1434942907739-150x24.png 150w" sizes="(max-width: 871px) 100vw, 871px" /></a></p>
+<p>O serviço consiste na automação de procedimentos de auditoria visando monitorar o aparecimento de novas falhas e vulnerabilidades na infraestrutura contemplada. Além disso são realizadas atividades de mapeamento para controle de inventário e acompanhamento de implementação de medidas de mitigação. <a href="http://www.nxtc.com.br/seguranca-digital/">Mais informações</a></p>
+		</div>
+		
+		<footer>
+					</footer>	
+	</article>
+							</div><!--End Main-->
+
+							</div>
+		
+		</div><!-- #content -->
+	</div>
+	        <section id="sp-position-1">
+            <div class="container">
+                                <div id="sp-position-position1">
+                    <div id="text-12" class=" sp-widget widget_text">			<div class="textwidget"><div class="carousel-home"><div class="carousel slide" id="myCarousel"><div class="carousel-inner"><div class="active item">
+<ul>
+<li><a href="#"><img src="http://www.nxtc.com.br/wp-content/uploads/2013/10/banner-1.png"  alt="Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+<li><a href="http://www.nxtc.com.br/avast-antivirus/"><img src="http://www.nxtc.com.br/wp-content/uploads/2015/07/Avast-Business-Solutions-NXTC-Nextec-IT-Solutions.png" alt="Avast Business Solutions - Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+<li><a href="#"><img src="http://www.nxtc.com.br/wp-content/uploads/2013/10/banner-3.png" alt="Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+<li><a href="#"><img src="http://www.nxtc.com.br/wp-content/uploads/2013/10/banner-4.png" alt="Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+<li><a href="#"><img src="http://www.nxtc.com.br/wp-content/uploads/2013/10/banner-1.png" alt="Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+</ul>
+</div><div class=" item">
+<ul>
+<li><a href="#"><img src="http://www.nxtc.com.br/wp-content/uploads/2013/10/banner-3.png" alt="Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+<li><a href="http://www.nxtc.com.br/avast-antivirus/"><img src="http://www.nxtc.com.br/wp-content/uploads/2015/07/Avast-Business-Solutions-NXTC-Nextec-IT-Solutions.png" alt="Avast Business Solutions - Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+<li><a href="#"><img src="http://www.nxtc.com.br/wp-content/uploads/2013/10/banner-1.png" alt="Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+<li><a href="http://www.nxtc.com.br/avast-antivirus/"><img src="http://www.nxtc.com.br/wp-content/uploads/2015/07/Avast-Business-Solutions-NXTC-Nextec-IT-Solutions.png" alt="Avast Business Solutions - Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+<li><a href="#"><img src="http://www.nxtc.com.br/wp-content/uploads/2013/10/banner-3.png" alt="Nextec IT Solutions Suporte Técnico em Informática BH"/></a></li>
+</ul>
+</div></div><a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a><a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a></div>
+
+</div></div>
+		</div>                </div>
+                            </div>
+        </section>
+    	<!--bottom-->
+    
+			<section id="sp-bottom-wrapper">
+			<div class="container">
+				<div class="row-fluid">                <div id="sp-position-bottom1" class="span4">
+                    <div id="text-11" class=" sp-widget widget_text"><h3>Sobre nós</h3>			<div class="textwidget"><ul class="twitter-wrapper">
+ <li itemscope itemtype="http://schema.org/Organization">
+<p >A <span itemprop="brand">Nextec IT Solutions</span> é especializada em Suporte Técnico e Infraestrutura de TI, atendendo empresas de diversos seguimentos.</p>
+<p><i class="icon-phone"></i><span itemprop="tel">+55 31 2523-3459</span> (9:00 - 18:00)</p>
+<p><i class="icon-envelope"></i><a itemprop="email" href="contato@nxtc.com.br">contato@nxtc.com.br</a></p>
+<p><i class="icon-map-marker"></i><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">Av. Augusto de Lima 407, sala 606 Lourdes</span> <span itemprop="addressLocality">Belo Horizonte</span>/<span itemprop="addressRegion">MG</span></span></p>
+</li>
+</ul></div>
+		</div>                </div>
+                                <div id="sp-position-bottom2" class="span4">
+                    <div id="nav_menu-11" class=" sp-widget widget_nav_menu"><h3>Informações</h3><div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li id="menu-item-761" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-761"><a href="http://www.nxtc.com.br/">Home</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="http://www.nxtc.com.br/sobre-a-nextec/">Sobre nós</a></li>
+<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="http://www.nxtc.com.br/servicos/">Serviços</a></li>
+<li id="menu-item-763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="http://www.nxtc.com.br/suporte/">Suporte</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://www.nxtc.com.br/contato/">Contato</a></li>
+</ul></div></div>                </div>
+                                <div id="sp-position-bottom3" class="span4">
+                    <div id="nav_menu-10" class=" sp-widget widget_nav_menu"><h3>Serviços</h3><div class="menu-menu-header-container"><ul id="menu-menu-header-1" class="menu"><li id="menu-item-361" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-361"><a href="http://www.nxtc.com.br/"><i class="icon-home"></i><span>Home</span></a></li>
+<li id="menu-item-781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-781"><a href="http://www.nxtc.com.br/gestao-de-ti/">Gestão em TI</a></li>
+<li id="menu-item-782" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-782"><a href="http://www.nxtc.com.br/cabeamento-estruturado/">Cabeamento</a></li>
+<li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-783"><a href="http://www.nxtc.com.br/circuito-fechado-de-tv/">CFTV</a></li>
+<li id="menu-item-790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-790"><a href="http://www.nxtc.com.br/seguranca-digital/">Segurança Digital</a></li>
+</ul></div></div>                </div>
+                </div>			</div>
+		</section>
+	
+</section><!-- #sp-main -->
+
+<footer id="sp-footer-wrapper" role="contentinfo">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span7">
+				
+
+<span class="copyright">Copyright © 2016 Nextec IT Solutions. All Rights Reserved.</span>
+<span class="designed-by">Designed <a target="_blank" title="Premium Joomla Templates and Wordpress Themes" href="http://www.vinathemes.biz"> VinaThemes.biz </a></span>		
+
+
+			</div>		
+			<div class="span5">
+					<a class="sp-totop pull-right" href="#" rel="nofollow"><small>Goto top </small><i class="icon-caret-up"></i></a>				                <div id="sp-position-footer">
+                    <div id="nav_menu-9" class=" sp-widget widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-804"><a href="http://www.nxtc.com.br/sobre-a-nextec/">Sobre nós</a></li>
+<li id="menu-item-805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-805"><a href="http://www.nxtc.com.br/mapa-do-site/">Mapa do site</a></li>
+</ul></div></div>                </div>
+                			</div>
+		</div>
+	</div>
+</footer>
+
+<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://www.nxtc.com.br?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var F = new Function ( response );
+			return( F() );
+		});
+    });
+</script><link rel='stylesheet' id='pbuilder_Open+Sans_300-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300&#038;subset=all&#038;ver=4.7.27' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-camera-widget/includes/admin/js/jquery.simpletip-1.3.1.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-camera-widget/includes/js/jquery.easing.1.3.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-camera-widget/includes/js/camera.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-treeview-menu/includes/js/jquery.cookie.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-treeview-menu/includes/js/jquery.treeview.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-wooproducts-scroller/includes/js/jquery.cssAnimate.mini.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-wooproducts-scroller/includes/js/jquery.mousewheel.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-wooproducts-scroller/includes/js/jquery.touchwipe.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/vina-wooproducts-scroller/includes/js/scroller.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/jquery.color.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.ui.mouse.min.js?ver=4.7.27'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fechar","currentText":"Hoje","monthNames":["janeiro","fevereiro","mar\u00e7o","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"monthNamesShort":["jan","fev","mar","abr","maio","jun","jul","ago","set","out","nov","dez"],"nextText":"Pr\u00f3ximo","prevText":"Anterior","dayNames":["domingo","segunda-feira","ter\u00e7a-feira","quarta-feira","quinta-feira","sexta-feira","s\u00e1bado"],"dayNamesShort":["dom","seg","ter","qua","qui","sex","s\u00e1b"],"dayNamesMin":["D","S","T","Q","Q","S","S"],"dateFormat":"d \\dd\\e MM \\dd\\e yy","firstDay":0,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.ui.draggable.min.js?ver=4.7.27'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.prettyphoto.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/idangerous.swiper.js?ver=2.5'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/swfobject.js?ver=2.2.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.metadata.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.mb.YTPlayer.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/timer.min.js?ver=0.5.5'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.mb-comingsoon.js?ver=0.5.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "http:\/\/www.nxtc.com.br\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/shortcodes.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/jquery.easypiechart.min.js?ver=2.1.3'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/chart.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/raphael.2.1.0.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/justgage.1.0.1.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/isotope.pkgd.min.js?ver=2.0.0'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/pbs.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/modernizr-2.6.2-respond-1.1.0.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder/js/flowplayer.min.js?ver=2.5.4'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/profit_builder//js/pb_main.js?ver=1.0.5'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/comment-reply.min.js?ver=4.7.27'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Verifique se voc\u00ea n\u00e3o \u00e9 um rob\u00f4."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.0.17'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/woocommerce/assets/js/jquery-placeholder/jquery.placeholder.min.js?ver=2.0.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"countries":"{\"AF\":[],\"AT\":[],\"BE\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"FI\":[],\"FR\":[],\"HU\":[],\"IS\":[],\"IL\":[],\"KR\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"AU\":{\"ACT\":\"Territ\\u00f3rio da Capital Australiana\",\"NSW\":\"Nova Gales do Sul\",\"NT\":\"Territ\\u00f3rio do Norte\",\"QLD\":\"Queensland\",\"SA\":\"Austr\\u00e1lia Meridional\",\"TAS\":\"Tasm\\u00e2nia\",\"VIC\":\"Victoria\",\"WA\":\"Austr\\u00e1lia Ocidental\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\\u00e1s\",\"MA\":\"Maranh\\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"Col\\u00fambia Brit\\u00e2nica\",\"MB\":\"Manitoba\",\"NB\":\"Nova Brunswick\",\"NL\":\"Terra Nova\",\"NT\":\"Territ\\u00f3rios do Noroeste\",\"NS\":\"Nova Esc\\u00f3cia\",\"NU\":\"Nunavut\",\"ON\":\"Ont\\u00e1rio\",\"PE\":\"Ilha do Pr\\u00edncipe Eduardo\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"ES\":{\"C\":\"La Coru\u00f1a\",\"VI\":\"\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Guip\u00fazcoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Vizcaya\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alasca\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"Calif\\u00f3rnia\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"Distrito de Columbia\",\"FL\":\"Fl\\u00f3rida\",\"GA\":\"Ge\\u00f3rgia\",\"HI\":\"Hava\\u00ed\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"Nova Hampshire\",\"NJ\":\"Nova Jersey\",\"NM\":\"Novo M\\u00e9xico\",\"NY\":\"Nova Iorque\",\"NC\":\"Carolina do Norte\",\"ND\":\"Dakota do Norte\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pensilv\\u00e2nia\",\"RI\":\"Rhode Island\",\"SC\":\"Carolina do Sul\",\"SD\":\"Dakota do Sul\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virg\\u00ednia\",\"WA\":\"Washington\",\"WV\":\"Virg\\u00ednia Ocidental\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"For\\u00e7as Armadas (AA)\",\"AE\":\"For\\u00e7as Armadas (AE)\",\"AP\":\"For\\u00e7as Armadas (AP)\",\"AS\":\"Samoa Americana\",\"GU\":\"Guam\",\"MP\":\"Comunidade das Ilhas Marianas Setentrionais\",\"PR\":\"Porto Rico\",\"UM\":\"Ilhas Menores Distantes dos Estados Unidos\",\"VI\":\"Ilhas Virgens dos EUA\"},\"HK\":{\"HONG KONG\":\"Ilha de Hong Kong\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"Novos Territ\\u00f3rios\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Barat da Papua\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Qued\\u00e1\",\"KTN\":\"Kelantan\",\"MLK\":\"Malaca\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"PNG\":\"Penang\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"KUL\":\"W.P. Kuala Lumpur\",\"LBN\":\"W.P. Labuan\",\"PJY\":\"W.P. Putrajaya\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"Costa Oeste dos Estados Unidos\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"TH\":{\"TH-37\":\"Amnat Charoen (\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d)\",\"TH-15\":\"Ang Thong (\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07)\",\"TH-14\":\"Ayutthaya (\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32)\",\"TH-10\":\"Bangkok (\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23)\",\"TH-38\":\"Bueng Kan (\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c)\",\"TH-31\":\"Buri Ram (\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c)\",\"TH-24\":\"Chachoengsao (\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32)\",\"TH-18\":\"Chai Nat (\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17)\",\"TH-36\":\"Chaiyaphum (\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34)\",\"TH-22\":\"Chanthaburi (\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-50\":\"Chiang Mai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)\",\"TH-57\":\"Chiang Rai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22)\",\"TH-20\":\"Chonburi (\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35)\",\"TH-86\":\"Chumphon (\u0e0a\u0e38\u0e21\u0e1e\u0e23)\",\"TH-46\":\"Kalasin (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c)\",\"TH-62\":\"Kamphaeng Phet (\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23)\",\"TH-71\":\"Kanchanaburi (\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-40\":\"Khon Kaen (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19)\",\"TH-81\":\"Krabi (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48)\",\"TH-52\":\"Lampang (\u0e25\u0e33\u0e1b\u0e32\u0e07)\",\"TH-51\":\"Lamphun (\u0e25\u0e33\u0e1e\u0e39\u0e19)\",\"TH-42\":\"Loei (\u0e40\u0e25\u0e22)\",\"TH-16\":\"Lopburi (\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35)\",\"TH-58\":\"Mae Hong Son (\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19)\",\"TH-44\":\"Maha Sarakham (\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21)\",\"TH-49\":\"Mukdahan (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23)\",\"TH-26\":\"Nakhon Nayok (\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01)\",\"TH-73\":\"Nakhon Pathom (\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21)\",\"TH-48\":\"Nakhon Phanom (\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21)\",\"TH-30\":\"Nakhon Ratchasima (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)\",\"TH-60\":\"Nakhon Sawan (\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)\",\"TH-80\":\"Nakhon Si Thammarat (\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a)\",\"TH-55\":\"Nan (\u0e19\u0e48\u0e32\u0e19)\",\"TH-96\":\"Narathiwat (\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a)\",\"TH-39\":\"Nong Bua Lam Phu (\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39)\",\"TH-43\":\"Nong Khai (\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22)\",\"TH-12\":\"Nonthaburi (\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-13\":\"Pathum Thani (\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35)\",\"TH-94\":\"Pattani (\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35)\",\"TH-82\":\"Phang Nga (\u0e1e\u0e31\u0e07\u0e07\u0e32)\",\"TH-93\":\"Phatthalung (\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07)\",\"TH-56\":\"Phayao (\u0e1e\u0e30\u0e40\u0e22\u0e32)\",\"TH-67\":\"Phetchabun (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c)\",\"TH-76\":\"Phetchaburi (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35)\",\"TH-66\":\"Phichit (\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23)\",\"TH-65\":\"Phitsanulok (\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01)\",\"TH-54\":\"Phrae (\u0e41\u0e1e\u0e23\u0e48)\",\"TH-83\":\"Phuket (\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15)\",\"TH-25\":\"Prachin Buri (\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-77\":\"Prachuap Khiri Khan (\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c)\",\"TH-85\":\"Ranong (\u0e23\u0e30\u0e19\u0e2d\u0e07)\",\"TH-70\":\"Ratchaburi (\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35)\",\"TH-21\":\"Rayong (\u0e23\u0e30\u0e22\u0e2d\u0e07)\",\"TH-45\":\"Roi Et (\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14)\",\"TH-27\":\"Sa Kaeo (\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27)\",\"TH-47\":\"Sakon Nakhon (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23)\",\"TH-11\":\"Samut Prakan (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)\",\"TH-74\":\"Samut Sakhon (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)\",\"TH-75\":\"Samut Songkhram (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21)\",\"TH-19\":\"Saraburi (\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35)\",\"TH-91\":\"Satun (\u0e2a\u0e15\u0e39\u0e25)\",\"TH-17\":\"Sing Buri (\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35)\",\"TH-33\":\"Sisaket (\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29)\",\"TH-90\":\"Songkhla (\u0e2a\u0e07\u0e02\u0e25\u0e32)\",\"TH-64\":\"Sukhothai (\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22)\",\"TH-72\":\"Suphan Buri (\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35)\",\"TH-84\":\"Surat Thani (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35)\",\"TH-32\":\"Surin (\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c)\",\"TH-63\":\"Tak (\u0e15\u0e32\u0e01)\",\"TH-92\":\"Trang (\u0e15\u0e23\u0e31\u0e07)\",\"TH-23\":\"Trat (\u0e15\u0e23\u0e32\u0e14)\",\"TH-34\":\"Ubon Ratchathani (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35)\",\"TH-41\":\"Udon Thani (\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35)\",\"TH-61\":\"Uthai Thani (\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35)\",\"TH-53\":\"Uttaradit (\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c)\",\"TH-95\":\"Yala (\u0e22\u0e30\u0e25\u0e32)\",\"TH-35\":\"Yasothon (\u0e22\u0e42\u0e2a\u0e18\u0e23)\"},\"ZA\":{\"EC\":\"Cabo Oriental\",\"FS\":\"Estado Livre\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Cabo Norte\",\"NW\":\"Noroeste\",\"WC\":\"Cabo Ocidental\"},\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Goa\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu e Caxemira\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TR\":\"Tripura\",\"UT\":\"Uttaranchal\",\"UP\":\"Uttar Pradesh\",\"WB\":\"Bengala Ocidental\",\"AN\":\"Andam\\u00e3o e Nicobar\",\"CH\":\"Chandigarh\",\"DN\":\"Dadr\\u00e1 e Nagar-Aveli\",\"DD\":\"Dam\\u00e3o e Diu\",\"DL\":\"Delhi\",\"LD\":\"Laquedivas\",\"PY\":\"Pondicherry (Puducherry)\"}}","plugin_url":"http:\/\/www.nxtc.com.br\/wp-content\/plugins\/woocommerce","ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/www.nxtc.com.br\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_select_state_text":"Selecione uma op\u00e7\u00e3o","i18n_required_rating_text":"Por favor, selecione uma classifica\u00e7\u00e3o","i18n_no_matching_variations_text":"Desculpe, nenhum produto encontrado com os termos selecionados. Por favor escolha uma combina\u00e7\u00e3o diferente.","i18n_required_text":"obrigat\u00f3rio","i18n_view_cart":"Ver carrinho \u2192","review_rating_required":"yes","update_order_review_nonce":"d66dd34918","apply_coupon_nonce":"8d382d4b84","option_guest_checkout":"yes","checkout_url":"\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"6e88ae06bd","cart_url":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.0.17'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.0.17'></script>
+<script type='text/javascript' src='http://www.nxtc.com.br/wp-includes/js/wp-embed.min.js?ver=4.7.27'></script>
+<script type="text/javascript">if(typeof removecufon == "function") removecufon();</script>
 
 </body>
-
 </html>
